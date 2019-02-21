@@ -1,0 +1,1 @@
+# problem.all_different_directions
