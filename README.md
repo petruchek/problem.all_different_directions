@@ -8,4 +8,11 @@ How to run: php run.php <input.txt
 
 Script expects the input from standard console. Input format specification can be found on the kattis website.
 
-Author: Val Petruchek <petruchek@gmail.com> http://zliypes.com.ua/
+Script doesn't perform any input validation and expects all the input to be valid.
+
+To do:
+	- validate input
+	- handle invalid input
+
+Author: Val Petruchek <petruchek@gmail.com> #http://zliypes.com.ua/
+
